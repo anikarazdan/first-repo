@@ -1,3 +1,3 @@
 # first-repo
 git and github repo
-git clone http://your-repo-url
+git clone https://github.com/anikarazdan/first-repo.git
